@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="IMG_2723.jpg" alt="Come Up logo" width="180">
+</p>
+
 # Come Up
 
 ### Support for the moment you're in.
