@@ -119,24 +119,29 @@ Feedback on design, usability, bugs and which tools are most useful is especiall
 
 ## Screenshots
 
-Add your Come Up screenshots here once they're uploaded to this repository.
+## Screenshots
 
-Recommended screenshots:
+<p align="center">
+  <img src="IMG_2693.PNG" alt="Come Up Home" width="30%">
+  <img src="IMG_2695.PNG" alt="Break It Down" width="30%">
+  <img src="IMG_2696.PNG" alt="Reset Me" width="30%">
+</p>
 
-**Home**  
-*Support for the moment you're in.*
+<p align="center">
+  <img src="IMG_2697.PNG" alt="Reset Me choices" width="30%">
+  <img src="IMG_2699.PNG" alt="Tiny Start" width="30%">
+  <img src="IMG_2704.PNG" alt="Quick Check-In" width="30%">
+</p>
 
-**Break It Down**  
-*Make the first step smaller.*
+<p align="center">
+  <img src="IMG_2698.PNG" alt="Come Up quick reset" width="30%">
+  <img src="IMG_2702.PNG" alt="Emergency Calm" width="30%">
+  <img src="IMG_2706.PNG" alt="Meditation Night Mode" width="30%">
+</p>
 
-**Reset Me**  
-*Pause. Reset. Find your next step.*
-
-**Quick Check-In**  
-*Check in with your mood and energy.*
-
-**Cycle Tracker**  
-*Notice patterns across your cycle.*
+<p align="center">
+  <img src="IMG_2739.PNG" alt="Cycle Tracker" width="30%">
+</p>
 
 ---
 
